@@ -18,4 +18,8 @@ class People
 			return $this->sex;
 		}
 	}
+	
+	function speak() {
+		return "Hello there i am human!";
+	}
 }
