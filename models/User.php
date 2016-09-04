@@ -4,5 +4,5 @@ include "../People.php";
 
 class User
 {
-	
+	public 
 }
